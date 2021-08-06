@@ -1,2 +1,3 @@
 # Web-Chat
-A real-time chat application built using reactjs and socket.io
+
+A real-time chat application built using Reactjs and socket.io.
